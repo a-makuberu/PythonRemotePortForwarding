@@ -1,4 +1,4 @@
-# SSH Tunnel with Port Forwarding
+# SSH Tunnel with Remote Port Forwarding
 
 This Python script uses the Paramiko library to establish an SSH tunnel for port forwarding. It can be used to securely forward traffic from a remote server to a local machine through an encrypted connection.
 
